@@ -6,18 +6,19 @@
 class MarwanAhmed:
 
     def __init__(self):
-        self.name = "Marwan Ahmed"
+        self.name = "Marwan Ahmed Elhanbly"
         self.role = "Computer Science Student"
+        self.location = "Egypt"
         self.interests = [
             "Cybersecurity",
             "Python",
             "Ethical Hacking",
+            "Networking",
             "Problem Solving"
         ]
-        self.location = "Egypt"
 
     def say_hi(self):
-        print("Welcome to my GitHub profile!")
+        print("Welcome to my GitHub Profile!")
 
 me = MarwanAhmed()
 me.say_hi()
@@ -26,45 +27,44 @@ me.say_hi()
 ## 🚀 About Me
 
 - 🎓 Computer Science Student
-- 🏆 CS50 Graduate (Harvard University)
+- 🏆 CS50x Graduate (Harvard University)
 - 🔐 Aspiring Cybersecurity Professional
 - 💻 Python Developer
-- 📚 Continuously learning programming, networking, and security concepts
+- 📚 Currently learning Cybersecurity, Linux, Networking, and Security Fundamentals
 - 🎯 Goal: Become a Cybersecurity Engineer
 
 ## 🛠️ Skills
 
-### Programming
+### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- Python
+- C
+- SQL
+- HTML
+- CSS
 
-### Tools & Technologies
+### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Currently Learning
-
-- Cybersecurity Fundamentals
-- Networking
-- Linux
-- Ethical Hacking
-- Security Tools
-- Advanced Python
+- Git
+- GitHub
+- VS Code
+- Linux (Learning)
 
 ## 📜 Certifications
 
-- ✅ CS50x: Introduction to Computer Science (Harvard University)
+### CS50x: Introduction to Computer Science
+Harvard University
 
-## 📂 Projects
+Certificate:
+https://cs50.harvard.edu/certificates/b06ed3e2-5cc8-45bb-b7eb-7d5c621492bd
 
-Here you'll find:
+## 📂 Featured Projects
 
-- CS50 Projects
-- Python Applications
-- Security Learning Projects
+- CS50 Problem Sets
+- CS50 Final Project
+- Python Projects
 - Automation Scripts
+- Future Cybersecurity Projects
 
 ## 📊 GitHub Stats
 
@@ -76,9 +76,10 @@ Here you'll find:
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=MarwanAhmed13&theme=tokyonight)
 
-## 📫 Contact
+## 📫 Connect With Me
 
-- GitHub: https://github.com/MarwanAhmed13
+GitHub:
+https://github.com/MarwanAhmed13
 
 ---
 
